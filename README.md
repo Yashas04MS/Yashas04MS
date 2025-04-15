@@ -62,6 +62,8 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashas04MS/Yashas04MS/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashas04MS/Yashas04MS/output/pacman-contribution-graph.svg">
